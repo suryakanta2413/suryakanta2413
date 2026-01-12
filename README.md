@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👦 About Me:
 I am a beginner Python developer with a strong interest in learning programming and building simple, practical projects.
 
 
