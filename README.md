@@ -1,5 +1,7 @@
 # 👦 About Me:
-Data Analyst skilled in SQL, Python, Advanced Excel, Power BI, Tableau, Data Analysis, Data Visualization, Business Intelligence, Data Cleaning, Exploratory Data Analysis, Dashboard Development, Data Validation, Business Analysis and Problem Solving. 
+Detail-oriented Data Analyst with hands-on experience in Python, SQL, and Power BI, specializing in data cleaning, exploratory data analysis (EDA), statistical reporting, and dashboard development. 
+
+Skilled in transforming raw datasets into actionable business insights through KPI tracking, data Modeling, and trend analysis. Strong analytical mindset with the ability to support data-driven decision-making in fast-paced environments.
 
 
 ## 🌐 Socials:
